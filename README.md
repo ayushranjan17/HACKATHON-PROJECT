@@ -1,4 +1,6 @@
-# HACKATHON-PROJECT
+Predicted files are new_model.csv and new_model23.csv and codes are in FINAL_HACKATHON_MAIN.ipynb
+
+Brief report of project-
 1) We imported the data from the Train_Data into the jupyter notebook.
 
 2) Then, we handled the missing data by imputing the object column’s by its ‘mode’ and numerical column’s by its ‘mean’.
@@ -15,4 +17,4 @@
 
 8) “XGBoost” comes out as the best model and then we predicted values on test_data and also done the hyperparameter tuning on “XGBoost”.
 
-   Predicted files are new_model.csv and new_model23.csv and codes are in FINAL_HACKATHON_MAIN.ipynb
+   
