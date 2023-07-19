@@ -1,6 +1,5 @@
-#Hackathon Project
+# Hackathon Project
 Predicted files are new_model.csv and new_model23.csv and codes are in FINAL_HACKATHON_MAIN.ipynb
-
 Brief report of project-
 1) We imported the data from the 'Train_Data' into the jupyter notebook.
 
